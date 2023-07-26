@@ -17,6 +17,6 @@ A movie tickets booking and management application using `Flutter` and `NestJS`.
 |  |  |  |
 | :---:  | :---:  | :---:  | 
 
-| ![](ScreenShots/Home.png)   | ![](ScreenShots/UserDeatils.png)   | ![](ScreenShots/Details.png)   
+| ![](ScreenShots/Home.png)   | ![](ScreenShots/UserDeatils.png)   | ![](ScreenShots/Details.png) 
 
 </details>  
