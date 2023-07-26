@@ -15,10 +15,7 @@ A movie tickets booking and management application using `Flutter` and `NestJS`.
     <br>
 
 |  |  |  |
-| :---:  | :---:  | :---:  | 
-
+| :---:  | :---:  | :---:  |
 | ![](ScreenShots/Home.png)   | ![](ScreenShots/UserDeatils.png)   | ![](ScreenShots/Details.png) 
-
-![Home](https://github.com/PoovarasanKG/SimpleTaxiBookingApp/assets/77930091/9adb7e28-d702-4f23-8ca9-c0899d052ef3)
 
 </details>  
