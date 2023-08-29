@@ -5,7 +5,6 @@ It is an iOS application. using the Swift programming language.
 
 ## Features
 
--   Firebase authentication, socket.io.
 -   Google Map SDK is enabled. Pin the user's current location and driver's location on the map view.
 -   Indicates the action of updating the user's current location.
 -    User information form to get user name, phone number, travel date and time, destination, payment type.
